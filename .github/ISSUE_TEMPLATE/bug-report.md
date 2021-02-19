@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to describe a bug in Mercury
+about: Create a report to describe a bug
 title: "[BUG] -"
 labels: bug
 assignees: ''

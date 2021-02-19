@@ -1,6 +1,6 @@
 ---
 name: FE Feature Request
-about: Create an issue to describe a single new feature in Mercury
+about: Create an issue to describe a single new feature
 title: ""
 labels: ''
 assignees: ''

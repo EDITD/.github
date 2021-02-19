@@ -1,6 +1,6 @@
 ---
 name: FE Tech Task
-about: Create an issue to describe Mercury tech debt
+about: Create an issue to describe tech debt
 title: "[TECH DEBT] - "
 labels: tech-debt
 assignees: ''
